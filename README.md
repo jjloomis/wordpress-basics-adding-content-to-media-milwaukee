@@ -2,7 +2,7 @@
 
 ## About
 
-Instructions for Journalism, Advertising, and Media Studies students at UW-Milwaukee.
+Instructions for Journalism, Advertising, and Media Studies students at UW-Milwaukee. Test 8/15/23
 
 ## Credits
 
