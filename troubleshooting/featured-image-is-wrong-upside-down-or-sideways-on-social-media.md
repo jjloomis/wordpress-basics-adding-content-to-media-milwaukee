@@ -2,7 +2,7 @@
 
 ## Image is wrong
 
-1. In your post, scroll down to the Yoast SEO area.&#x20;
+1. In your post, scroll down to the **Yoast SEO** area.&#x20;
 2. In the **Yoast SEO** area, click the **Social** button (on left.)
 3. Scroll to the **Facebook Image** area. Click the **Upload Image** button.&#x20;
 4. Select the correct image from the Media Library or upload a new image. Click **Use Image**.
