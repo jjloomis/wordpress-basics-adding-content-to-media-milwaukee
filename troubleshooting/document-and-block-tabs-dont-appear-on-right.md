@@ -2,7 +2,6 @@
 
 **Problem**: **Document** and **Block** tabs don’t appear on right.
 
-**Solution**: Click **Settings** button (gear) on right (see image below.)
+**Solution**: Click **Settings** button on right (see image below.)
 
-![](../.gitbook/assets/settings-button.png)
-
+<figure><img src="../.gitbook/assets/wordpress-settings-button.png" alt=""><figcaption><p>Editor Settings button.</p></figcaption></figure>
