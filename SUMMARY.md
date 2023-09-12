@@ -38,6 +38,7 @@
 
 ## Troubleshooting
 
+* [Panels in Editor Are Missing](troubleshooting/panels-in-editor-are-missing.md)
 * [Unable to Log In](troubleshooting/unable-to-log-in.md)
 * [Did Not Receive Password Reset Email](troubleshooting/did-not-receive-password-reset-email.md)
 * [Featured Image is Wrong, Upside Down or Sideways on Social Media](troubleshooting/featured-image-is-wrong-upside-down-or-sideways-on-social-media.md)
