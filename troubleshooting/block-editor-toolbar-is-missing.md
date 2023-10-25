@@ -1,6 +1,7 @@
-# Block Editor Toolbar is Missing
+# Block Toolbar is Missing
 
-If, while editing a post, you select a block item (image, MP3, video, etc.) and the block editor toolbar does not appear above that block item, the **Top toolbar** option was most likely activated by accident.&#x20;
+If, while editing a post, you select a block (image, MP3, video, etc.) and the **Block toolbar** does not appear above that block, the **Top toolbar** option was most likely activated by accident.&#x20;
 
 1. In a post, click the **Options** button (three vertical dots) in the upper-right corner of the screen.
-2. Make sure **Top toolbar** is deselected (no checkmark.) &#x20;
+2. Make sure **Top toolbar** is deselected (no checkmark.) The **Block toolbar** will now hover near the selected block in the editor.
+3. If you prefer working with the **Top toolbar** active, be sure to [deactivate the other View options](panels-in-editor-are-missing.md).&#x20;
