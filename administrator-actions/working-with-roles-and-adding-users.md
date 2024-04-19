@@ -6,7 +6,7 @@ Before adding a user, you should have a solid understanding of user roles. Assig
 
 Always give a user the lowest level role they need. If you're unsure about what role a user should have, stick with **Subscriber** or **Contributor**. You can always give them a higher level role later.
 
-**Important**: Students are only assigned the Contributor role. Never give a student any other role.
+**Important**: Students are only assigned the **Contributor** role. Never give a student any other role.
 
 | Role          | Rights                                                                                                                                                                      | Who should get this role                                                                                                                                                      |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
