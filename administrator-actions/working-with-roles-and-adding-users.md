@@ -1,6 +1,6 @@
 # Working with Roles and Adding Users
 
-Before adding a user, you should have a solid understanding of user roles. Assigning the wrong role to a user can put the entire site in jeopardy. For example, a user with an Editor or Administrator role could potentially delete all of a site's content in less than five minutes.
+Before adding a user, you should have a solid understanding of user roles. Assigning the wrong role to a user can put the entire site in jeopardy. For example, a user with an **Editor** or **Administrator** role could potentially delete all of a site's content in less than five minutes.
 
 ## Working with Roles
 
