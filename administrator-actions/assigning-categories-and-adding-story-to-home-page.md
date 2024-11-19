@@ -8,4 +8,5 @@
 6. If you’d like the post to appear at the top of a home page category area (area with featured image), make sure the post has a featured image (see [Setting a Featured Image](../working-with-text-and-links/setting-a-featured-image.md).) Then click the post's **Status** (**Draft**, **Private**, **Public**, etc.) In the **Status & visibility** fly-out menu, select **Sticky**.&#x20;
 7. When finished, click **Publish** or **Update**.
 
-![](../.gitbook/assets/categories.png)
+<figure><img src="../.gitbook/assets/stick-to-top-of-blog-new.png" alt=""><figcaption><p>Sticking a post to the top of a home page category area.</p></figcaption></figure>
+
