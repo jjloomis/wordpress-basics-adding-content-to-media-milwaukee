@@ -1,6 +1,6 @@
 # Assigning Categories and Adding Story to Home Page
 
-1. In a post, make sure the **Document** tab is selected (on right.)
+1. In a post, make sure the **Post** tab is selected (on right.)
 2. Scroll down to the **Categories** area (on right.)
 3. Select the post's primary category (**News**, **Opinion**, **Sports**, etc.)&#x20;
 4. If you’d like the post to appear on the home page, select the **Home** category (in addition to the post's primary category.)
