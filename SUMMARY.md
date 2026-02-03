@@ -30,6 +30,10 @@
 * [Previewing a Post](working-with-text-and-links/previewing-a-post.md)
 * [Submitting a Post for Review](working-with-text-and-links/submitting-a-post-for-review.md)
 
+## Accessibility
+
+* [Adding a Transcript to a Post](accessibility/adding-a-transcript-to-a-post.md)
+
 ## Administrator Actions
 
 * [Editing and Publishing a Pending Story](administrator-actions/editing-and-publishing-a-pending-story.md)
