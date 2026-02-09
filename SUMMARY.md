@@ -23,6 +23,8 @@
 * [Adding a Caption to an Image, MP3, or Video](working-with-text-and-links/adding-a-caption-and-alt-text-to-an-image-mp3-or-video.md)
 * [Adding Alt Text to an Image](working-with-text-and-links/adding-alt-text-to-an-image.md)
 * [Adding a Heading](working-with-text-and-links/adding-a-heading.md)
+* [Adding a Bulleted List](working-with-text-and-links/adding-a-bulleted-list.md)
+* [Adding a Numbered List](working-with-text-and-links/adding-a-numbered-list.md)
 * [Adding a Blockquote](working-with-text-and-links/adding-a-blockquote.md)
 * [Moving and Deleting Items in a Post](working-with-text-and-links/moving-and-deleting-items-in-a-post.md)
 * [Setting a Featured Image](working-with-text-and-links/setting-a-featured-image.md)
