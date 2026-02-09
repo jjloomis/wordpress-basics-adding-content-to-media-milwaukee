@@ -15,7 +15,7 @@ A properly renamed image might look like this: election-day-loomis-3.jpg.
 3. To upload an image, click the **Upload** button. Navigate to and select the image on your computer.
 4. To select an image from the **Media Library**, click the **Media Library** button. Select the image you'd like to use and click the **Select** button.&#x20;
 5. If necessary, [align and resize the image](aligning-and-resizing-an-image.md).&#x20;
-6. Add a [caption and alt text](adding-a-caption-and-alt-text-to-an-image-mp3-or-video.md) to the image.
+6. Add [alt text](adding-alt-text-to-an-image.md) and a [caption](adding-a-caption-and-alt-text-to-an-image-mp3-or-video.md) to the image.
 
 ![Adding an image directly to a post.](../.gitbook/assets/image-block.png)
 
