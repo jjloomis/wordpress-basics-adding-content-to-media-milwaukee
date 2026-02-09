@@ -1,6 +1,6 @@
 # Aligning and Resizing an Image
 
-**Important**: Do not use the image settings in the **Documents** panel to change the size of an image. For example, the **Image size** drop-down options (in the **Documents** panel) should not be changed. The **Image dimensions** area (in the **Documents** panel) should not be changed. Also, within a story, do not click and drag the **image resizing handles** to resize an image.
+**Important**: Do not use the image settings in the **Documents** panel to change the size of an image. For example, the **Image size** drop-down options (in the **Documents** panel) should not be changed. The **Image dimensions** area (in the **Documents** panel) should not be changed. Also, do not click and drag the **image resizing handles** to resize an image within a story.
 
 If your photos came from a modern camera or phone, there will be no reason to use the image options in the **Documents** panel. **Note**: This only applies to image options within the **Documents** panel. Instructions on the proper use of image alignment controls (**none**, **Wide** **width,** **Full width**) are detailed below.&#x20;
 
