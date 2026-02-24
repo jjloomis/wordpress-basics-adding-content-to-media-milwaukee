@@ -6,7 +6,7 @@ While the items listed below are not an exhaustive list of all ADA Title II WCAG
 
 ### Audio
 
-When adding an audio file to a post, a transcript of the audio file must be included in the post. If you haven't already done so, create a transcript of the audio file. Then use the Transcript block to add a transcript to the post.
+When [adding an audio file to a post](../working-with-text-and-links/adding-an-mp3.md), a transcript of the audio file must be included in the post. If you haven't already done so, [create a transcript of the audio file](https://app.gitbook.com/s/WycynV9WpbYN7REu1niU/using-word-online-to-transcribe-an-audio-file). Then use the **Transcript** block to [add a transcript to the post](adding-a-transcript-to-a-post.md).
 
 ### Bulleted List/Unordered List
 
