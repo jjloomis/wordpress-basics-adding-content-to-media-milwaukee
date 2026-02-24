@@ -1,6 +1,6 @@
 # Accessibility Checklist
 
-To comply with Title II of the Americans with Disabilities Act (ADA), Media Milwaukee posts must meet the accessibility guidelines stipulated in the Web Content Accessibility Guidelines (WCAG) Version 2.1, Level AA (the technical standard for state and local governments’ web content and mobile apps).
+To comply with [Title II of the Americans with Disabilities Act (ADA)](https://www.ada.gov/law-and-regs/regulations/title-ii-2010-regulations/), **Media Milwaukee** posts must meet the accessibility guidelines stipulated in the [Web Content Accessibility Guidelines (WCAG) Version 2.1 Level AA](https://www.ada.gov/resources/2024-03-08-web-rule/).
 
 While the items listed below are not an exhaustive list of all ADA Title II WCAG 2.1 Level AA guidelines, these are the guidelines **Contributors** and **Editors** will most likely encounter when creating and publishing posts in **Media Milwaukee**.&#x20;
 
