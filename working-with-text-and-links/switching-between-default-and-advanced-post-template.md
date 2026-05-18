@@ -1,8 +1,8 @@
 # Switching Between Default and Advanced Post Template
 
-The **Default template** is for standard-length stories like [this](https://mediamilwaukee.com/news/milwaukee-protest-march).
+The **Default template** is for standard-length stories like [this story about a proposed data center in Caledonia, WI](https://mediamilwaukee.com/home/caledonia-microsoft-data-enter/).
 
-The **Advanced template** is for long-form stories like [this](https://mkemidterms.mediamilwaukee.com/passion-for-justice-safety-energizes-milwaukee-jewish-vote-after-pittsburgh-massacre/).
+The **Advanced template** is for long-form stories like [this Island of Enchantment Overview story](https://mediamilwaukee.com/special-projects/overview-isla-del-encanto/).
 
 1. In a post, make sure the **Document** tab is selected.
 2. In the **Document** tab area, scroll down to the **Post Attributes** area (near bottom.)
